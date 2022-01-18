@@ -73,35 +73,3 @@ public class Estado implements Comparable<Estado>{
 	
 	
 }
-
-/*
- 
-Estado e = new Estado("Acre" , "AC");
-Estado e = new Estado("Alagoas" , "AL");
-Estado e = new Estado("Amapá" , "AP");
-Estado e = new Estado("Amazonas" , "AM");
-Estado e = new Estado("Bahia" , "BA");
-Estado e = new Estado("Ceará" , "CE");
-Estado e = new Estado("Espírito Santo" , "ES");
-Estado e = new Estado("Goiás" , "GO");
-Estado e = new Estado("Maranhão" , "MA");
-Estado e = new Estado("Mato Grosso" , "MT");
-Estado e = new Estado("Mato Grosso do Sul" , "MS");
-Estado e = new Estado("Minas Gerais" , "MG");
-Estado e = new Estado("Pará" , "PA");
-Estado e = new Estado("Paraíba" , "PB");
-Estado e = new Estado("Paraná" , "PR");
-Estado e = new Estado("Pernambuco" , "PE");
-Estado e = new Estado("Piauí" , "PI");
-Estado e = new Estado("Rio de Janeiro" , "RJ");
-Estado e = new Estado("Rio Grande do Norte" , "RN");
-Estado e = new Estado("Rio Grande do Sul" , "RS");
-Estado e = new Estado("Rondônia" , "RO");
-Estado e = new Estado("Roraima" , "RR");
-Estado e = new Estado("Santa Catarina" , "SC");
-Estado e = new Estado("São Paulo" , "SP");
-Estado e = new Estado("Sergipe" , "SE");
-Estado e = new Estado("Tocantins" , "TO");
-Estado e = new Estado("Distrito Federal" , "DF");
-
- */
